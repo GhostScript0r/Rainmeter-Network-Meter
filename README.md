@@ -1,0 +1,1 @@
+Simple network meter widget for Rainmeter, showing your current IP address, Geolocation, upload and download speed.
